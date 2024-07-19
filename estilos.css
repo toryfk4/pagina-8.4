@@ -5,14 +5,26 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("star.jpeg");
+}
+.cir1{
+    height: 224px;
+    width: 600px;
+    background-image: url("cicuito.jpg");
+    background-repeat: no-repeat;
+
+}
+.cir2{
+    height: 600px;
+    width: 600px;
+    background-image: url("circuito2.jpg");
     background-repeat: no-repeat;
 
 }
