@@ -7,6 +7,29 @@
     text-align: justify;
     color: rgb(255, 255, 255);
 }
+
+.texto2{
+   
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+.texto3{
+   
+    font-size: 15px;
+    padding-top: 10px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+.titulo1{
+   
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
 .principal{
    display: flex;
      
