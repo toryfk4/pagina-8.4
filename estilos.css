@@ -37,6 +37,7 @@
 body{
     background-image: url("star.jpeg");
 }
+
 .cir1{
     height: 224px;
     width: 600px;
@@ -50,4 +51,16 @@ body{
     background-image: url("circuito2.jpg");
     background-repeat: no-repeat;
 
+}
+.funcionexcel{
+    height: 600px;
+    width: 760px;
+    background-image: url("funcion.png");
+    background-repeat: no-repeat;
+}
+.funcionexcel2{
+    height: 600px;
+    width: 760px;
+    background-image: url("excel\ 2.webp");
+    background-repeat: no-repeat;
 }
